@@ -32,7 +32,7 @@ A collection of C and C++ programs written during the study of the ITM 112 cours
 │   ├── 07-calculator/         # Four-operation calculator (+, -, *, /)
 │   └── 08-login-registration/ # Simple console-based login and registration system
 │
-└── ITM-112/
+└── Cpp Practice/
     ├── task-1-arithmetic/     # Addition and multiplication of two numbers
     ├── task-2-char-io/        # Character input and output in different formats
     ├── task-3-string-concat/  # Concatenates three string inputs into one line
@@ -73,8 +73,6 @@ A collection of C and C++ programs written during the study of the ITM 112 cours
 | `task-1-arithmetic` | Task | Inputs two integers and prints their sum and product |
 | `task-2-char-io` | Task | Inputs three characters and prints them in two different formats |
 | `task-3-string-concat` | Task | Inputs three strings and concatenates them into a single line |
-| `quiz-3` | Quiz | Computes `Z = a / b` and `Y = c * a` for three input values |
-| `re-quiz` | Re-quiz | Computes addition, subtraction, and multiplication from three input values |
 | `lab-1-calculator` | Lab | Simple add or subtract calculator based on operator input |
 | `lab-2-string-name` | Lab | Demonstrates string concatenation by building a full name from parts |
 
