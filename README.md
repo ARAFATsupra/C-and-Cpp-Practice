@@ -36,8 +36,6 @@ A collection of C and C++ programs written during the study of the ITM 112 cours
     ├── task-1-arithmetic/     # Addition and multiplication of two numbers
     ├── task-2-char-io/        # Character input and output in different formats
     ├── task-3-string-concat/  # Concatenates three string inputs into one line
-    ├── quiz-3/                # Computes division and multiplication expressions
-    ├── re-quiz/               # Three-value arithmetic: addition, subtraction, multiplication
     ├── lab-1-calculator/      # Add or subtract two numbers based on user choice
     └── lab-2-string-name/     # Demonstrates string concatenation to form a full name
 ```
