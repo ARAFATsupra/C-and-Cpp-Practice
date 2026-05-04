@@ -54,12 +54,10 @@ A complete collection of C and C++ programs written during the study of the ITM 
 │   ├── 15-random-games/             # rand(), dice, prize selector, guessing game
 │   └── 16-functions/               # void functions, return values, overloading
 │
-└── ITM-112/
+└── Computer Fuundamental/
     ├── task-1-arithmetic/
     ├── task-2-char-io/
     ├── task-3-string-concat/
-    ├── quiz-3/
-    ├── re-quiz/
     ├── lab-1-calculator/
     └── lab-2-string-name/
 ```
@@ -267,15 +265,13 @@ Covers void functions with no arguments, one argument, and two arguments. Covers
 
 ---
 
-## ITM 112 Course Work
+## Computer Fundamental Course Work
 
 | Folder | Type | Description |
 |---|---|---|
 | `task-1-arithmetic` | Task | Addition and multiplication of two numbers |
 | `task-2-char-io` | Task | Three character inputs printed in two formats |
 | `task-3-string-concat` | Task | Three string inputs concatenated into one line |
-| `quiz-3` | Quiz | Division and multiplication expressions |
-| `re-quiz` | Re-quiz | Addition, subtraction, and multiplication of three values |
 | `lab-1-calculator` | Lab | Add or subtract based on user operator choice |
 | `lab-2-string-name` | Lab | String concatenation to build a full name |
 
