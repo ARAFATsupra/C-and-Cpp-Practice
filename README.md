@@ -66,7 +66,7 @@ A collection of C and C++ programs written during the study of the ITM 112 cours
 | `07-calculator` | Arithmetic operators, `if-else` | Performs addition, subtraction, multiplication, or division based on user input |
 | `08-login-registration` | `string`, `getline()`, comparison | Registers a username and password, then checks if the login credentials match |
 
-### ITM 112 Course Work
+### C++ Course Work Practice
 
 | Folder | Type | Description |
 |---|---|---|
